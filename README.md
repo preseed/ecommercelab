@@ -1,4 +1,0 @@
-ecommercelab
-============
-
-preseed eCommerce lab
