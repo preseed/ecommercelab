@@ -17,6 +17,10 @@ body {
     color: #009900;
 }
 
+.text-primary1 {
+    color: #0099FF;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
