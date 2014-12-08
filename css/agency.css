@@ -772,7 +772,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+/*.portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -927,7 +927,7 @@ img::-moz-selection {
   .carousel-caption {
     position: static;
   }
-}
+}*/
 
 body {
     webkit-tap-highlight-color: #fed136;
