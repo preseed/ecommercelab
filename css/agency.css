@@ -930,3 +930,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.pre_links {
+    text-align: left !important;
+}
+#nav-modified {
+    margin-left: 3%;
+}
