@@ -98,6 +98,7 @@
     .sm-links {
         float: right;
         position: relative !important;
+        padding-top: 12px !important;
   }
 }
 .sm-links {
